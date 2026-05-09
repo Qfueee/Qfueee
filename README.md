@@ -25,12 +25,6 @@ Actualmente me desempeño como **Asistente de TI en Casaideas**, donde realizo l
 - **Infraestructura:** Gestión de servicios TI, Seguridad de la información, Gestión de proyectos.
 - **Desarrollo:** Integraciones con Sunat, SQL, Automatización de flujos.
 
-### 📊 Mis Estadísticas:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qfueee&show_icons=true&theme=radical&hide_border=false" alt="Estadísticas de Jhoaofranco Morán" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qfueee&layout=compact&theme=radical&hide_border=false" alt="Lenguajes más usados" height="150" />
-</p>
-
 ---
 
 ### 📫 Conectemos:
